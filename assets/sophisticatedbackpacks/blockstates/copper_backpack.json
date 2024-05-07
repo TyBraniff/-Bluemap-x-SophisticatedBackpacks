@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "left_tank=false,right_tank=false,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack",
+      "y": 90
+    },
+    "left_tank=false,right_tank=false,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack",
+      "y": 180
+    },
+    "left_tank=false,right_tank=false,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack",
+      "y": 270
+    },
+    "left_tank=false,right_tank=false,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack"
+    },
+    "left_tank=true,right_tank=false,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_l",
+      "y": 90
+    },
+    "left_tank=true,right_tank=false,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_l",
+      "y": 180
+    },
+    "left_tank=true,right_tank=false,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_l",
+      "y": 270
+    },
+    "left_tank=true,right_tank=false,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_l"
+    },
+    "left_tank=false,right_tank=true,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_r",
+      "y": 90
+    },
+    "left_tank=false,right_tank=true,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_r",
+      "y": 180
+    },
+    "left_tank=false,right_tank=true,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_r",
+      "y": 270
+    },
+    "left_tank=false,right_tank=true,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_r"
+    },
+    "left_tank=false,right_tank=false,facing=east,battery=true": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_bat",
+      "y": 90
+    },
+    "left_tank=false,right_tank=false,facing=south,battery=true": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_bat",
+      "y": 180
+    },
+    "left_tank=false,right_tank=false,facing=west,battery=true": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_bat",
+      "y": 270
+    },
+    "left_tank=false,right_tank=false,facing=north,battery=true": {
+      "model": "sophisticatedbackpacks:block/copper_backpack_bat"
+    }
+  }
+}

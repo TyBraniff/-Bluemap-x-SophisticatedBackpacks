@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "left_tank=false,right_tank=false,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack",
+      "y": 90
+    },
+    "left_tank=false,right_tank=false,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack",
+      "y": 180
+    },
+    "left_tank=false,right_tank=false,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack",
+      "y": 270
+    },
+    "left_tank=false,right_tank=false,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack"
+    },
+    "left_tank=true,right_tank=false,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l",
+      "y": 90
+    },
+    "left_tank=true,right_tank=false,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l",
+      "y": 180
+    },
+    "left_tank=true,right_tank=false,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l",
+      "y": 270
+    },
+    "left_tank=true,right_tank=false,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l"
+    },
+    "left_tank=true,right_tank=false,facing=east,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l_bat",
+      "y": 90
+    },
+    "left_tank=true,right_tank=false,facing=south,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l_bat",
+      "y": 180
+    },
+    "left_tank=true,right_tank=false,facing=west,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l_bat",
+      "y": 270
+    },
+    "left_tank=true,right_tank=false,facing=north,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_l_bat"
+    },
+    "left_tank=false,right_tank=true,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r",
+      "y": 90
+    },
+    "left_tank=false,right_tank=true,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r",
+      "y": 180
+    },
+    "left_tank=false,right_tank=true,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r",
+      "y": 270
+    },
+    "left_tank=false,right_tank=true,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r"
+    },
+    "left_tank=false,right_tank=true,facing=east,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r_bat",
+      "y": 90
+    },
+    "left_tank=false,right_tank=true,facing=south,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r_bat",
+      "y": 180
+    },
+    "left_tank=false,right_tank=true,facing=west,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r_bat",
+      "y": 270
+    },
+    "left_tank=false,right_tank=true,facing=north,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_r_bat"
+    },
+    "left_tank=true,right_tank=true,facing=east,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr",
+      "y": 90
+    },
+    "left_tank=true,right_tank=true,facing=south,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr",
+      "y": 180
+    },
+    "left_tank=true,right_tank=true,facing=west,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr",
+      "y": 270
+    },
+    "left_tank=true,right_tank=true,facing=north,battery=false": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr"
+    },
+    "left_tank=true,right_tank=true,facing=east,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr_bat",
+      "y": 90
+    },
+    "left_tank=true,right_tank=true,facing=south,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr_bat",
+      "y": 180
+    },
+    "left_tank=true,right_tank=true,facing=west,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr_bat",
+      "y": 270
+    },
+    "left_tank=true,right_tank=true,facing=north,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_lr_bat"
+    },
+    "left_tank=false,right_tank=false,facing=east,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_bat",
+      "y": 90
+    },
+    "left_tank=false,right_tank=false,facing=south,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_bat",
+      "y": 180
+    },
+    "left_tank=false,right_tank=false,facing=west,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_bat",
+      "y": 270
+    },
+    "left_tank=false,right_tank=false,facing=north,battery=true": {
+      "model": "sophisticatedbackpacks:block/gold_backpack_bat"
+    }
+  }
+}
